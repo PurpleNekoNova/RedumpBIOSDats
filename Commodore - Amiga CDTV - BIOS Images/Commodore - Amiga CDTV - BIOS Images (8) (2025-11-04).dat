@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Amiga CDTV - BIOS Images</name>
+		<description>Commodore - Amiga CDTV - BIOS Images (8) (2025-11-04)</description>
+		<category>Standard DatFile</category>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for Amiga CDTV, data sourced from Cloanto and MAME.</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Commodore Amiga A570 Extended ROM (World) (v2.30)">
+		<description>Commodore Amiga A570 Extended ROM (World) (v2.30)</description>
+		<rom name="a570-ext-v230.rom" size="262144" crc="30b54232" md5="d98112f18792ee3714df16a6eb421b89" sha1="ed7e461d1fff3cda321631ae42b80e3cd4fa5ebb"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV Extended ROM (World) (v1.0)">
+		<description>Commodore Amiga CDTV Extended ROM (World) (v1.0)</description>
+		<rom name="cdtv-ext-v10.rom" size="262144" crc="42baa124" md5="89da1838a24460e4b93f4f0c5d92d48d" sha1="7ba40ffa17e500ed9fed041f3424bd81d9c907be"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV Extended ROM (World) (v2.30)">
+		<description>Commodore Amiga CDTV Extended ROM (World) (v2.30)</description>
+		<rom name="cdtv-ext-v230.rom" size="262144" crc="a5a6ed15" md5="a0da718b10074a86d2d11036f7a4c1a7" sha1="14271106fe97e655345ba8cccac52be999c37990"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV Extended ROM (World) (v2.35) (Unl)">
+		<description>Commodore Amiga CDTV Extended ROM (World) (v2.35) (Unl)</description>
+		<rom name="cdtv-ext-v235-cdtvland-unl.rom" size="262144" crc="4ff7ab41" md5="662e740093ffe510695cab281cd659f7" sha1="426ef4b3a229154ed320b2f84022261e7b4219a8"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV Extended ROM (World) (v2.7)">
+		<description>Commodore Amiga CDTV Extended ROM (World) (v2.7)</description>
+		<rom name="cdtv-ext-v27.rom" size="262144" crc="ceae68d2" md5="d1145ab3a0f89340f94c9e734762c198" sha1="5bc114bba29f60a614a311745b3e2464bfa06846"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV Kickstart (World) (v1.3 r34.5)">
+		<description>Commodore Amiga CDTV Kickstart (World) (v1.3 r34.5)</description>
+		<rom name="cdtv-kickstart-v13-r345.rom" size="262144" crc="c4f0f55f" md5="82a21c1890cae844b3df741f2762d48d" sha1="891e9a547772fe0c6c19b610baf8bc4ea7fcb785"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV-CR Extended ROM (World) (Dev) (v3.34)">
+		<description>Commodore Amiga CDTV-CR Extended ROM (World) (Dev) (v3.34)</description>
+		<rom name="cdtv-cr-ext-dev-v334.bin" size="262144" crc="a5fc6a36" md5="0bf80e4a5e6e68f4a13a934cac141344" sha1="6d478c65e03da540e6a4ca06f4acd10a1838d3c6"/>
+	</machine>
+	<machine name="Commodore Amiga CDTV-CR Kickstart (World) (Dev) (v2.05 r37.300)">
+		<description>Commodore Amiga CDTV-CR Kickstart (World) (Dev) (v2.05 r37.300)</description>
+		<rom name="cdtv-cr-kickstart-dev-v205-r37300.rom" size="524288" crc="64466c2a" md5="fa4acc75b49e880679fe02716af24d71" sha1="f72d89148dac39c696e30b10859ebc859226637b"/>
+	</machine>
+</datafile>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Sega - Saturn - BIOS Images</name>
+		<description>Sega - Saturn - BIOS Images (12) (2025-11-04)</description>
+		<category>Standard DatFile</category>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for Sega Saturn, data sourced from Sega Retro and MAME.</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Hitachi Game &amp; Car Navi HiSaturn (Japan) (v1.03)">
+		<description>Hitachi Game &amp; Car Navi HiSaturn (Japan) (v1.03)</description>
+		<rom name="ss-jp-hisaturn-navi-103.bin" size="524288" crc="c9b81e3d" md5="7d5db9c27ea815003881df189f28382e" sha1="fb15bbea4a4a2542499352b292e7e0d96def40ec"/>
+	</machine>
+	<machine name="Hitachi HiSaturn (Japan) (v1.01)">
+		<description>Hitachi HiSaturn (Japan) (v1.01)</description>
+		<rom name="ss-jp-hisaturn-101.bin" size="524288" crc="721e1b60" md5="3ea3202e2634cb47cb90f3a05c015010" sha1="49d8493008fa715ca0c94d99817a5439d6f2c796"/>
+	</machine>
+	<machine name="Hitachi HiSaturn (Japan) (v1.02)">
+		<description>Hitachi HiSaturn (Japan) (v1.02)</description>
+		<rom name="ss-jp-hisaturn-102.bin" size="524288" crc="3408dbf4" md5="cb2cebc1b6e573b7c44523d037edcd45" sha1="8a22710e09ce75f39625894366cafe503ed1942d"/>
+	</machine>
+	<machine name="Samsung Saturn (Korea) (v1.02a)">
+		<description>Samsung Saturn (Korea) (v1.02a)</description>
+		<rom name="ss-ko-samsung-102a.bin" size="524288" crc="aa2a3f38" md5="231f71a5e42c1da30cdde479b27a7850" sha1="a2e1c166dc56f9f7081cac69c25088c21d7a598e"/>
+	</machine>
+	<machine name="Sega Saturn (Japan) (Dev) (v1.003)">
+		<description>Sega Saturn (Japan) (Dev) (v1.003)</description>
+		<rom name="ss-jp-dev-1003.bin" size="524288" crc="b3c63c25" md5="74570fed4d44b2682b560c8cd44b8b6a" sha1="7b23b53d62de0f29a23e423d0fe751dfb469c2fa"/>
+	</machine>
+	<machine name="Sega Saturn (Japan) (v1.00)">
+		<description>Sega Saturn (Japan) (v1.00)</description>
+		<rom name="ss-jp-100.bin" size="524288" crc="2aba43c2" md5="af5828fdff51384f99b3c4926be27762" sha1="2b8cb4f87580683eb4d760e4ed210813d667f0a2"/>
+	</machine>
+	<machine name="Sega Saturn (Japan) (v1.01)">
+		<description>Sega Saturn (Japan) (v1.01)</description>
+		<rom name="ss-jp-101.bin" size="524288" crc="224b752c" md5="85ec9ca47d8f6807718151cbcca8b964" sha1="df94c5b4d47eb3cc404d88b33a8fda237eaf4720"/>
+	</machine>
+	<machine name="Sega Saturn (USA, Europe) (v1.00a)">
+		<description>Sega Saturn (USA, Europe) (v1.00a)</description>
+		<rom name="ss-us-eu-100a.bin" size="524288" crc="f90f0089" md5="f273555d7d91e8a5a6bfd9bcf066331c" sha1="3bb41feb82838ab9a35601ac666de5aacfd17a58"/>
+	</machine>
+	<machine name="Sega Saturn (USA, Europe) (v1.01a)">
+		<description>Sega Saturn (USA, Europe) (v1.01a)</description>
+		<rom name="ss-us-eu-101a.bin" size="524288" crc="4afcf0fa" md5="3240872c70984b6cbfda1586cab68dbe" sha1="faa8ea183a6d7bbe5d4e03bb1332519800d3fbc3"/>
+	</machine>
+	<machine name="Sega Titan Video (World) (Arcade) (v1.061)">
+		<description>Sega Titan Video (World) (Arcade) (v1.061)</description>
+		<rom name="ss-stv-1061.bin" size="524288" crc="728dbca3" md5="8e0a1096fc6593eeb508e1159bbdd70c" sha1="0ed2030177f0aa8285645c395ae9ad9f568ab1d6"/>
+	</machine>
+	<machine name="Sega Titan Video (World) (Arcade) (v1.10)">
+		<description>Sega Titan Video (World) (Arcade) (v1.10)</description>
+		<rom name="ss-stv-110.bin" size="524288" crc="3dfeda92" md5="b52e39d0a0377c098b33957a1ad3ba88" sha1="8eb33192a57df5f3a1dfb57263054867c6b2db6d"/>
+	</machine>
+	<machine name="Victor V-Saturn (Japan) (v1.01)">
+		<description>Victor V-Saturn (Japan) (v1.01)</description>
+		<rom name="ss-jp-vsaturn-101.bin" size="524288" crc="e4d61811" md5="ac4e4b6522e200c0d23d371a8cecbfd3" sha1="4154e11959f3d5639b11d7902b3a393a99fb5776"/>
+	</machine>
+</datafile>

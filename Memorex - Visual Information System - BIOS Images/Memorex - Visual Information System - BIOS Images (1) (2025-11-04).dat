@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Memorex - Visual Information System - BIOS Images</name>
+		<description>Memorex - Visual Information System - BIOS Images (1) (2025-11-04)</description>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for , data sourced from .</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Memorex Video Information System 16-376 (USA)">
+		<description>Memorex Video Information System 16-376 (USA)</description>
+		<rom name="vis-16-376-chip0-p531bk0b.bin" size="524288" crc="364e3f74" md5="ebf432d3b09f694db1c62018eb2ab471" sha1="04260ef1e65e482c9c49d25ace40e22487d6aab9"/>
+		<rom name="vis-16-376-chip1-p531bk1b.bin" size="524288" crc="e18239c4" md5="758f8fec271fbf526bb22b36e88f154b" sha1="a0262109e10a07a11eca43371be9978fff060bc5"/>
+	</machine>
+</datafile>

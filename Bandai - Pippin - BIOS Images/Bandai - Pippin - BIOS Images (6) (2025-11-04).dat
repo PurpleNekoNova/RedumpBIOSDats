@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Bandai - Pippin - BIOS Images</name>
+		<description>Bandai - Pippin - BIOS Images (6) (2025-11-04)</description>
+		<category>Standard DatFile</category>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for Apple-Bandai Pippin, data sourced from MAME and Mac Repository.</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Bandai Apple Pippin (World) (Dev) (GM Flash)">
+		<description>Bandai Apple Pippin (World) (Dev) (GM Flash)</description>
+		<rom name="pippin-dev-gmflash.rom" size="4194304" crc="4ff875e6" md5="318e40f6a1f47925876eb64cc18c9ede" sha1="eb8739cab1807c6c7c51acc7f4a3afc1f9c6ddbb"/>
+	</machine>
+	<machine name="Bandai Apple Pippin (World) (v1.0)">
+		<description>Bandai Apple Pippin (World) (v1.0)</description>
+		<rom name="pippin-10.rom" size="4194304" crc="29f06528" md5="d0eb08a7375b7fff78f5e14574364ac4" sha1="6478ee9e8d5cfe3b00f699f7072482210e00c5cc"/>
+	</machine>
+	<machine name="Bandai Apple Pippin (World) (v1.2)">
+		<description>Bandai Apple Pippin (World) (v1.2)</description>
+		<rom name="pippin-12.rom" size="4194304" crc="4fead4b3" md5="72c40c1af23a664eb778cc09b65d646e" sha1="3fa02e9b0fa702ac6e02edc08911eac8b50e2d1f"/>
+	</machine>
+	<machine name="Bandai Apple Pippin (World) (v1.3)">
+		<description>Bandai Apple Pippin (World) (v1.3)</description>
+		<rom name="pippin-13.rom" size="4194304" crc="87a1337d" md5="a52528e9ce8c35df485ebaa8000bfc93" sha1="8e512af6e34dd823f3defec77d43ecbff1ecad54"/>
+	</machine>
+	<machine name="Bandai Apple Pippin CD-ROM Drive Firmware (World)">
+		<description>Bandai Apple Pippin CD-ROM Drive Firmware (World)</description>
+		<rom name="504par4.0i.ic7" size="65536" crc="25f7dd46" md5="e3fadee90a1f29bdaceef1a4a58c4734" sha1="ec3b3031742807924c6259af865e701827208fec"/>
+	</machine>
+	<machine name="Bandai Apple Pippin Power Player EVT2 (World) (Dev)">
+		<description>Bandai Apple Pippin Power Player EVT2 (World) (Dev)</description>
+		<rom name="pippin-dev-evt2.rom" size="4194304" crc="142e5289" md5="563de4f1213c3776b05bc05d90660782" sha1="7308a334a177866a5a3e262eed5297a155320fc6"/>
+	</machine>
+</datafile>

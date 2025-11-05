@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Fujitsu - FM Towns series - BIOS Images</name>
+		<description>Fujitsu - FM Towns series - BIOS Images (6) (2025-11-04)</description>
+		<category>Standard DatFile</category>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for FM Towns series, data sourced from gekk.info.</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Fujitsu FM Towns (Japan)">
+		<description>Fujitsu FM Towns (Japan)</description>
+		<rom name="fmt_dic.rom" size="524288" crc="82d1daa2" md5="8fa4e553f28cfc0c30a0a1e589799942" sha1="7564020dba71deee27184824b84dbbbb7c72aa4e"/>
+		<rom name="fmt_dos.rom" size="524288" crc="112872ee" md5="0585b19930d4a7f4c71bcc8a33746588" sha1="57fd146478226f7f215caf63154c763a6d52165e"/>
+		<rom name="fmt_f20.rom" size="524288" crc="9f55a20c" md5="ac0c7021e9bf48ca84b51ab651169a88" sha1="1920711cb66340bb741a760de187de2f76040b8c"/>
+		<rom name="fmt_fnt.rom" size="262144" crc="dd6fd544" md5="b91300e55b70227ce98b59c5f02fa8dd" sha1="a216482ea3162f348fcf77fea78e0b2e4288091a"/>
+		<rom name="fmt_sys.rom" size="262144" crc="afe4ebcf" md5="86fb6f7280689259f0ca839dd3dd6cde" sha1="4cd51de4fca9bd7a3d91d09ad636fa6b47a41df5"/>
+	</machine>
+	<machine name="Fujitsu FM Towns Car Marty (Japan)">
+		<description>Fujitsu FM Towns Car Marty (Japan)</description>
+		<rom name="fmt_dic.rom" size="524288" crc="82d1daa2" md5="8fa4e553f28cfc0c30a0a1e589799942" sha1="7564020dba71deee27184824b84dbbbb7c72aa4e"/>
+		<rom name="fmt_dos.rom" size="524288" crc="2bc2af96" md5="3f3dde5dd766b4921e5c7265df14f93d" sha1="99cd51c5677288ad8ef711b4ac25d981fd586884"/>
+		<rom name="fmt_fnt.rom" size="262144" crc="dd6fd544" md5="b91300e55b70227ce98b59c5f02fa8dd" sha1="a216482ea3162f348fcf77fea78e0b2e4288091a"/>
+		<rom name="fmt_sys.rom" size="262144" crc="e1ff7ce1" md5="f3fdebc687d2f79e45a5d534924e2aa0" sha1="e6c359177e4e9fb5bbb7989c6bbf6e95c091fd88"/>
+		<rom name="mar_ex0.rom" size="524288" crc="e248bfbd" md5="58fd370e0b9cb7c4db6c717bf2d40fd2" sha1="0ce89952a7901dd4d256939a6bc8597f87e51ae7"/>
+		<rom name="mar_ex1.rom" size="524288" crc="ab2e94f0" md5="e54ede43cdd4b550a6b1da84cf208d07" sha1="4b3378c772302622f8e1139ed0caa7da1ab3c780"/>
+		<rom name="mar_ex2.rom" size="524288" crc="ce150ec7" md5="169cdc057da4956185a9038edb06ce92" sha1="1cd8c39f3b940e03f9fe999ebcf7fd693f843d04"/>
+		<rom name="mar_ex3.rom" size="524288" crc="582fc7fc" md5="cfc7dfb1c4ff62220c946412651bccd7" sha1="a77d8014e41e9ff0f321e156c0fe1a45a0c5e58e"/>
+		<rom name="mytowns.rom" size="32" crc="bc58eba6" md5="20d68fe18ae55c2887a55198564bdef8" sha1="483087d823c3952cc29bd827e5ef36d12c57ad49"/>
+	</machine>
+	<machine name="Fujitsu FM Towns II HR (Japan)">
+		<description>Fujitsu FM Towns II HR (Japan)</description>
+		<rom name="fmt_sys.rom" size="262144" crc="8aeff982" md5="ecc8c37735e591a878d750d5976d7f52" sha1="a4ebf2e247a8e15a5f1ff003b657bbe3a67203d8"/>
+		<rom name="mytowns.rom" size="32" crc="c52f0e89" md5="72a96dabf0f9e5fe0bb47b08fa456815" sha1="634d3965606b18a99507f0a520553005661c41ff"/>
+	</machine>
+	<machine name="Fujitsu FM Towns II SJ - Fresh-E (Japan)">
+		<description>Fujitsu FM Towns II SJ - Fresh-E (Japan)</description>
+		<rom name="mytowns.rom" size="32" crc="d0ed8936" md5="fdcfdd08844e260286acff6004e9154f" sha1="bf9eeef25e9a1dc4a9ce1c70f4155ac973cae3f9"/>
+	</machine>
+	<machine name="Fujitsu FM Towns II UX (Japan)">
+		<description>Fujitsu FM Towns II UX (Japan)</description>
+		<rom name="fmt_dos.rom" size="524288" crc="22270e9f" md5="03c8fac9a5f5f5f35fb5de5a5d0d018f" sha1="a7e97b25ff72b14121146137db8b45d6c66af2ae"/>
+		<rom name="fmt_sys.rom" size="262144" crc="92f3fa67" md5="90b5e01d42aaa93e8f4503a5e94e120b" sha1="be21404098b23465d24c4201a81c96ac01aff7ab"/>
+		<rom name="mytowns.rom" size="32" crc="5cc7e6bc" md5="1a15f6c1b58ec7e5f850118610a787a7" sha1="e245f8086df57ce6e48853f0e13525f738e5c4d8"/>
+	</machine>
+	<machine name="Fujitsu FM Towns Marty (Japan)">
+		<description>Fujitsu FM Towns Marty (Japan)</description>
+		<rom name="fmt_dic.rom" size="524288" crc="82d1daa2" md5="8fa4e553f28cfc0c30a0a1e589799942" sha1="7564020dba71deee27184824b84dbbbb7c72aa4e"/>
+		<rom name="fmt_dos.rom" size="524288" crc="2bc2af96" md5="3f3dde5dd766b4921e5c7265df14f93d" sha1="99cd51c5677288ad8ef711b4ac25d981fd586884"/>
+		<rom name="fmt_fnt.rom" size="262144" crc="dd6fd544" md5="b91300e55b70227ce98b59c5f02fa8dd" sha1="a216482ea3162f348fcf77fea78e0b2e4288091a"/>
+		<rom name="fmt_sys.rom" size="262144" crc="937311f6" md5="8053958d759487f7765d740ef3fd529f" sha1="7b1c97fa778986134104a6964c8fe13e3654f52e"/>
+		<rom name="mar_ex0.rom" size="524288" crc="f67540f6" md5="4f43e0a04fa5eb609ad93d6498fc3ee1" sha1="1611fc4683dab72e56a5d0ee0f757e5878900b31"/>
+		<rom name="mar_ex1.rom" size="524288" crc="99938a4b" md5="62c7f3fe1827af995d0c82c664611954" sha1="167d8ae47312cdaa30b8597144f60f54ce9f74d3"/>
+		<rom name="mar_ex2.rom" size="524288" crc="c6783422" md5="a260bc140b96ee43445ca026d0cb452b" sha1="b2ed2ba42b8132d139480484fe116ba7774e1604"/>
+		<rom name="mar_ex3.rom" size="524288" crc="4aa43e16" md5="655fc5f6f661c6b28c8b877dd2e26ad1" sha1="19b669aa6488bdaf8569e89b1b1067e51246a768"/>
+		<rom name="mytowns.rom" size="32" crc="d365c4f0" md5="bb291c556de00e98c8bf5b455ee090fe" sha1="0871bc3e89f3f13a5e7432b383c6eb5bff897949"/>
+	</machine>
+</datafile>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Commodore - Amiga CD32 - BIOS Images</name>
+		<description>Commodore - Amiga CD32 - BIOS Images (5) (2025-11-04)</description>
+		<category>Standard DatFile</category>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for Amiga CD32, data sourced from MAME and Cloanto.</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Commodore Amiga A1200 Kickstart (World) (v3.1 r40.68)">
+		<description>Commodore Amiga A1200 Kickstart (World) (v3.1 r40.68)</description>
+		<rom name="a1200-kickstart-v31-r4068.rom" size="524288" crc="1483a091" md5="646773759326fbac3b2311fd8c8793ee" sha1="e21545723fe8374e91342617604f1b3d703094f1"/>
+	</machine>
+	<machine name="Commodore Amiga A4000 Kickstart (World) (v3.1 r40.70)">
+		<description>Commodore Amiga A4000 Kickstart (World) (v3.1 r40.70)</description>
+		<rom name="a4000-kickstart-v31-r4070.rom" size="524288" crc="917100a0" md5="88f6e141541c677f91b50893933a4eff" sha1="039536fa2087a031d41b6735fdc3eba464d1bfa2"/>
+	</machine>
+	<machine name="Commodore Amiga CD32 Extended ROM (World) (r40.60)">
+		<description>Commodore Amiga CD32 Extended ROM (World) (r40.60)</description>
+		<rom name="cd32-ext-r4060.rom" size="524288" crc="87746be2" md5="bb72565701b1b6faece07d68ea5da639" sha1="5bef3d628ce59cc02a66e6e4ae0da48f60e78f7f"/>
+	</machine>
+	<machine name="Commodore Amiga CD32 FMV Module ROM (World)">
+		<description>Commodore Amiga CD32 FMV Module ROM (World)</description>
+		<rom name="cd32-fmv.rom" size="262144" crc="c35c37bf" md5="1c8bbf475d1adf52ef01b24f50becf37" sha1="03ca81c7a7b259cf64bc9582863eca0f6529f435"/>
+	</machine>
+	<machine name="Commodore Amiga CD32 Kickstart (World) (v3.1 r40.60)">
+		<description>Commodore Amiga CD32 Kickstart (World) (v3.1 r40.60)</description>
+		<rom name="cd32-kickstart-v31-r4060.rom" size="524288" crc="1e62d4a5" md5="5f8924d013dd57a89cf349f4cdedc6b1" sha1="3525be8887f79b5929e017b42380a79edfee542d"/>
+	</machine>
+</datafile>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datafile PUBLIC "-//Logiqx//DTD ROM Management Datafile//EN" "http://www.logiqx.com/Dats/datafile.dtd">
+
+<datafile>
+	<header>
+		<name>Atari - Jaguar CD Interactive Multimedia System - BIOS Images</name>
+		<description>Atari - Jaguar CD Interactive Multimedia System - BIOS Images (2) (2025-11-04)</description>
+		<category>Standard DatFile</category>
+		<version>2025-11-04</version>
+		<author>NovaAurora</author>
+		<comment>Redump.org style BIOS dat for Atari Jaguar CD, data sourced from No-Intro.</comment>
+		<clrmamepro/>
+	</header>
+	<machine name="Atari Jaguar CD (World)">
+		<description>Atari Jaguar CD (World)</description>
+		<rom name="aj-cd.j64" size="262144" crc="687068d5" md5="77cd95c7ad06a39f4c59995094aa10f9" sha1="73883e7a6e9b132452436f7ab1aeaeb0776428e5"/>
+	</machine>
+	<machine name="Atari Jaguar CD (World) (Dev)">
+		<description>Atari Jaguar CD (World) (Dev)</description>
+		<rom name="aj-cd-dev.j64" size="262144" crc="55a0669c" md5="578de34498cb9a40c5368b6f5ca80484" sha1="d61b7b5912118f114ef00cf44966a5ef62e455a5"/>
+	</machine>
+</datafile>
