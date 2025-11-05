@@ -37,7 +37,7 @@
 	</machine>
 	<machine name="Commodore Amiga CDTV-CR Extended ROM (World) (Dev) (v3.34)">
 		<description>Commodore Amiga CDTV-CR Extended ROM (World) (Dev) (v3.34)</description>
-		<rom name="cdtv-cr-ext-dev-v334.bin" size="262144" crc="a5fc6a36" md5="0bf80e4a5e6e68f4a13a934cac141344" sha1="6d478c65e03da540e6a4ca06f4acd10a1838d3c6"/>
+		<rom name="cdtv-cr-ext-dev-v334.rom" size="262144" crc="a5fc6a36" md5="0bf80e4a5e6e68f4a13a934cac141344" sha1="6d478c65e03da540e6a4ca06f4acd10a1838d3c6"/>
 	</machine>
 	<machine name="Commodore Amiga CDTV-CR Kickstart (World) (Dev) (v2.05 r37.300)">
 		<description>Commodore Amiga CDTV-CR Kickstart (World) (Dev) (v2.05 r37.300)</description>
